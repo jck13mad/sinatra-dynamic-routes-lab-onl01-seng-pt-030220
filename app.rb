@@ -34,7 +34,8 @@ class App < Sinatra::Base
     final_string
   end
   
-  
+  get '/:operation/:number1/:number2' do
+    
   
   
 end
