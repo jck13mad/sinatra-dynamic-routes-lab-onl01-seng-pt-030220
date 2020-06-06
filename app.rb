@@ -33,7 +33,8 @@ class App < Sinatra::Base
     final_string = "#{@word1} #{@word2} #{@word3} #{@word4} #{@word5}."
     final_string
   end
-    
+  
+  
   
   
 end
