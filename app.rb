@@ -20,6 +20,7 @@ class App < Sinatra::Base
     @number.times do
       final_string += @phrase
     end
+    final_string
   end
   
   
